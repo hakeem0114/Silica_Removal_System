@@ -1,1 +1,2 @@
-# Silica_Removal_System
+# CAPSTONE PROJECT: Silica_Removal_System
+
